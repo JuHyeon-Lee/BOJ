@@ -11,7 +11,7 @@ int main(){
 	for(int i=0; i<N; i++){
 		
 		char s[80];
-		scanf("%s", s);
+		scanf("%[^\n]", s);
 		
 		int cnt = 0;
 		int total = 0;
