@@ -1,10 +1,10 @@
 # Solved Problems
 
-### **43 problems solved (21.01.03 updated)**
+### **46 problems solved (21.01.04 updated)**
 
 ### **1000-9999**
 
-[1000](https://www.acmicpc.net/problem/1000) [1001](https://www.acmicpc.net/problem/1001) [1008](https://www.acmicpc.net/problem/1008) [1065](https://www.acmicpc.net/problem/1065) [1110](https://www.acmicpc.net/problem/1110) [1330](https://www.acmicpc.net/problem/1330) [1546](https://www.acmicpc.net/problem/1546) [2438](https://www.acmicpc.net/problem/2438) [2439](https://www.acmicpc.net/problem/2439) [2557](https://www.acmicpc.net/problem/2557) [2562](https://www.acmicpc.net/problem/2562) [2577](https://www.acmicpc.net/problem/2577) [2588](https://www.acmicpc.net/problem/2588) [2739](https://www.acmicpc.net/problem/2739) [2741](https://www.acmicpc.net/problem/2741) [2742](https://www.acmicpc.net/problem/2742) [2753](https://www.acmicpc.net/problem/2753) [2884](https://www.acmicpc.net/problem/2884) [3052](https://www.acmicpc.net/problem/3052) [4344](https://www.acmicpc.net/problem/4344) [4673](https://www.acmicpc.net/problem/4673) [8393](https://www.acmicpc.net/problem/8393) [8958](https://www.acmicpc.net/problem/8958) [9498](https://www.acmicpc.net/problem/9498)
+[1000](https://www.acmicpc.net/problem/1000) [1001](https://www.acmicpc.net/problem/1001) [1008](https://www.acmicpc.net/problem/1008) [1065](https://www.acmicpc.net/problem/1065) [1110](https://www.acmicpc.net/problem/1110) [1152](https://www.acmicpc.net/problem/1152) [1157](https://www.acmicpc.net/problem/1157) [1330](https://www.acmicpc.net/problem/1330) [1546](https://www.acmicpc.net/problem/1546) [2438](https://www.acmicpc.net/problem/2438) [2439](https://www.acmicpc.net/problem/2439) [2557](https://www.acmicpc.net/problem/2557) [2562](https://www.acmicpc.net/problem/2562) [2577](https://www.acmicpc.net/problem/2577) [2588](https://www.acmicpc.net/problem/2588) [2675](https://www.acmicpc.net/problem/2675) [2739](https://www.acmicpc.net/problem/2739) [2741](https://www.acmicpc.net/problem/2741) [2742](https://www.acmicpc.net/problem/2742) [2753](https://www.acmicpc.net/problem/2753) [2884](https://www.acmicpc.net/problem/2884) [3052](https://www.acmicpc.net/problem/3052) [4344](https://www.acmicpc.net/problem/4344) [4673](https://www.acmicpc.net/problem/4673) [8393](https://www.acmicpc.net/problem/8393) [8958](https://www.acmicpc.net/problem/8958) [9498](https://www.acmicpc.net/problem/9498)
 
 ### **10000-**
 
