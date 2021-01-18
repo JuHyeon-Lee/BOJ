@@ -2,7 +2,7 @@
 
 ### ID: juhy / Profile: [click](https://www.acmicpc.net/user/juhy)
 
-### **91 problems solved (21.01.17 updated)**
+### **93 problems solved (21.01.18 updated)**
 
 ### **1000-9999**
 
@@ -10,4 +10,4 @@
 
 ### **10000-**
 
-[10039](https://www.acmicpc.net/problem/10039) [10170](https://www.acmicpc.net/problem/10170) [10171](https://www.acmicpc.net/problem/10171) [10172](https://www.acmicpc.net/problem/10172) [10250](https://www.acmicpc.net/problem/10250) [10430](https://www.acmicpc.net/problem/10430) [10718](https://www.acmicpc.net/problem/10718) [10757](https://www.acmicpc.net/problem/10757) [10797](https://www.acmicpc.net/problem/10797) [10809](https://www.acmicpc.net/problem/10809) [10817](https://www.acmicpc.net/problem/10817) [10818](https://www.acmicpc.net/problem/10818) [10869](https://www.acmicpc.net/problem/10869) [10871](https://www.acmicpc.net/problem/10871) [10950](https://www.acmicpc.net/problem/10950) [10951](https://www.acmicpc.net/problem/10951) [10952](https://www.acmicpc.net/problem/10952) [10998](https://www.acmicpc.net/problem/10998) [11021](https://www.acmicpc.net/problem/11021) [11022](https://www.acmicpc.net/problem/11022) [11653](https://www.acmicpc.net/problem/11653) [11654](https://www.acmicpc.net/problem/11654) [11720](https://www.acmicpc.net/problem/11720) [11942](https://www.acmicpc.net/problem/11942) [14681](https://www.acmicpc.net/problem/14681) [15552](https://www.acmicpc.net/problem/15552) [15596](https://www.acmicpc.net/problem/15596)
+[10039](https://www.acmicpc.net/problem/10039) [10170](https://www.acmicpc.net/problem/10170) [10171](https://www.acmicpc.net/problem/10171) [10172](https://www.acmicpc.net/problem/10172) [10250](https://www.acmicpc.net/problem/10250) [10430](https://www.acmicpc.net/problem/10430) [10718](https://www.acmicpc.net/problem/10718) [10757](https://www.acmicpc.net/problem/10757) [10797](https://www.acmicpc.net/problem/10797) [10809](https://www.acmicpc.net/problem/10809) [10817](https://www.acmicpc.net/problem/10817) [10818](https://www.acmicpc.net/problem/10818) [10869](https://www.acmicpc.net/problem/10869) [10870](https://www.acmicpc.net/problem/10870) [10871](https://www.acmicpc.net/problem/10871) [10872](https://www.acmicpc.net/problem/10872) [10950](https://www.acmicpc.net/problem/10950) [10951](https://www.acmicpc.net/problem/10951) [10952](https://www.acmicpc.net/problem/10952) [10998](https://www.acmicpc.net/problem/10998) [11021](https://www.acmicpc.net/problem/11021) [11022](https://www.acmicpc.net/problem/11022) [11653](https://www.acmicpc.net/problem/11653) [11654](https://www.acmicpc.net/problem/11654) [11720](https://www.acmicpc.net/problem/11720) [11942](https://www.acmicpc.net/problem/11942) [14681](https://www.acmicpc.net/problem/14681) [15552](https://www.acmicpc.net/problem/15552) [15596](https://www.acmicpc.net/problem/15596)https://www.acmicpc.net/problem/15596)
