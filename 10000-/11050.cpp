@@ -2,6 +2,14 @@
 
 using namespace std;
 
+int dp[1001][1001];
+
+int bino(int n, int k){
+	if(dp[n][k]) return dp[n][k];
+	if(n==k || k==0) return 1;
+	return dp[n][k] = bino(n-1, k) + bino(n-1, k-1);
+}
+
 int main(){
 	cin.tie(0); cout.tie(0);
 	ios::sync_with_stdio(0);
@@ -9,17 +17,7 @@ int main(){
 	int N, K;
 	cin >> N >> K;
 	
-	int child = 1;
-	for(int i=N; i>N-K; i--){
-		child *= i;
-	}
-	
-	int parent = 1;
-	for(int i=K; i>0; i--){
-		parent *= i;
-	}
-	
-	cout << child / parent << "\n";
+	cout << bino(N, K) << "\n";
 	
 	return 0;
 }
